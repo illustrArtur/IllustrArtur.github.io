@@ -134,6 +134,25 @@ h2 {
 
 }
 
+.foot {
+
+    background-image: url(../fon/tume3horis.jpg);
+    height: 20%;
+}
+
+#line {
+    border-bottom: 1px solid rgb(244, 240, 240);
+}
+
+#end {
+    text-align: center;
+    padding-top: 3%;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: "posteretro";
+    letter-spacing: 9px;
+}
+
 @font-face {
     font-family: "posteretro";
     src: url(../font/posteretro.ttf);
