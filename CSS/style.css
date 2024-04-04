@@ -94,6 +94,10 @@ h2 {
     font-size: 20px;
 }
 
+#st2 {
+    padding-right: 5%;
+}
+
 .stat1 {
 
     background-image: url(../fon/fonBumaga.jpg); 
@@ -101,11 +105,48 @@ h2 {
     width: 100%;    
 }
 
+.stat3 {
+
+    background-image: url(../fon/fonSvet2.jpg); 
+    height: 800px;
+    width: 100%;    
+}
+
+#jes {
+    color: black;
+}
+
+.jesus {
+    color: black;
+    display: block;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 20px;
+
+}
+
+#art3 {
+    width: 900px;
+    padding-top: 2%;
+    padding-left: 5%;
+    letter-spacing: 9px;
+    color: rgba(33, 33, 37, 0.7);
+}
+
 .stat2 {
 
     background-image: url(../fon/tume2vert.jpg); 
     height: 650px;
     width: 100%;    
+}
+
+#st2 {
+    width: 30%;
+    padding-left: 5%;
+    display: inline-block;
+    opacity: 0.7;
+    float: right;
 }
 
 #art2 {
