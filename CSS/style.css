@@ -37,11 +37,20 @@ html, body {
     display: flex;
     font-family: "posteretro";
     justify-content: space-between;
-    opacity: 0.1;
+    /* opacity: 0.1; */
     text-transform: uppercase;
     
 }
 
+.nav-link {
+    color: rgb(246, 246, 250);
+    opacity: 0.2;
+    transition: 1s;
+}
+.nav-link:hover {
+    color: rgb(246, 246, 250);
+    opacity: 5;
+}
 
 .container {
     max-width: 1110px;
